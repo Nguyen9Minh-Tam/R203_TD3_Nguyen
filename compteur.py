@@ -11,5 +11,5 @@ while compteur !=nombre:
     if valide != compteur:
         print("Recommencez ! Compteur remis à 0.")
         compteur = 0
-    else:
-        print("Bravo! Vous avez fini de compter")
+
+print("Bravo! Vous avez fini de compter")
